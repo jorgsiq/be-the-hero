@@ -1,4 +1,4 @@
-![](header.png)
+![](header2.png)
 
 Web and mobile application to connect non-governmental organizations with people to support causes and donate
 
