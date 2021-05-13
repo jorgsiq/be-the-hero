@@ -1,12 +1,12 @@
 ![](header.png)
 
-Web and mobile application to connect non-governmental organizations with people (support causes and donate)
+Web and mobile application to connect non-governmental organizations with people to support causes and donate
 
 ## Built With
 * ExpoJS
 * ReactJS
 * React Native
-* Node JS
+* NodeJS
 * Eslint
 * Jest
 * Cors
