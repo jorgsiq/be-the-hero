@@ -1,6 +1,6 @@
 ![](header.png)
 
-Web and mobile application to connect non-governmental organizations with people to support causes and donate.
+[LEARN MORE](https://jorgesiqueira.com/post/be-the-hero)
 
 ## Built With
 * ExpoJS
@@ -14,7 +14,7 @@ Web and mobile application to connect non-governmental organizations with people
 
 ## Last Version
 
-**Feb 2020 / 1.0 Version** is stable
+**Feb 2020
 
 ## Authors
 * **Diego Fernandes** - [@diego3g](https://github.com/diego3g)
