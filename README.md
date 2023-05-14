@@ -1,4 +1,4 @@
-[LEARN MORE](https://jorgesiqueira.com/post/be-the-hero)
+[LEARN MORE](https://jorgesiqueira.com/post/be-the-hero) (About the Project)
 
 ## Built With
 * ExpoJS
